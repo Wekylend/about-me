@@ -6,7 +6,7 @@
 * Contractor and Developer at `Jamo Tech` 
 * Developer at `Crystal Development`
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=wekylend&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=wekylend&count_private=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact
 * Discord, [Wekylend#7965](https://discord.gg/gntMFqnZyj)
