@@ -10,5 +10,5 @@
 
 ### Contact
 * Discord, [Wekylend#7965](https://discord.gg/gntMFqnZyj)
-* Twitter, [@wekylend](https://twitter.com/wekylend)
+* Twitter, [@wekylendev](https://twitter.com/wekylendev)
 * MC Market, [Wekylend](https://www.mc-market.org/members/106892/)
